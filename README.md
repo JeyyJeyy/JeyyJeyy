@@ -5,4 +5,4 @@ I like to code with different programming languages like <img src="https://img.i
 
 ###Contacts
 
-You can message me on **[Discord](JeyJey#0001)** and **[Twitter](https://twitter.com/gJeyJey_)**.
+You can message me on **[Discord](https://discord.com/users/442645039693299723)** and **[Twitter](https://twitter.com/gJeyJey_)**.
