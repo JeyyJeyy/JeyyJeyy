@@ -11,7 +11,7 @@ Some may be in private temporarily but all of these projects are open source. ‚ù
 * **[LoLUtils](https://github.com/JeyyJeyy/LoLUtils)**, a tool to help choose your champion on League of Legends
 * **[Get-T1](https://github.com/JeyyJeyy/Get-T1)**, to be aware of problems on the T1 line at Nancy
 * **[StockManager](https://github.com/JeyyJeyy/StockManager-server)**, a tool to help control food stocks
-* and and more in progress... !
+* and more in progress... !
 
 ### Contacts üìù
 
