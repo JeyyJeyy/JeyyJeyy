@@ -15,4 +15,4 @@ Some may be in private temporarily but all of these projects are open source. â
 
 ### Contacts ğŸ“
 
-You can message me on **[Discord - JeyJey#0001](https://discord.com/users/442645039693299723)** and **[Twitter](https://twitter.com/gJeyJey_)**.
+You can message me on **[Discord - JeyJey#2048](https://discord.com/users/442645039693299723)** and **[Twitter](https://twitter.com/gJeyJey_)**.
