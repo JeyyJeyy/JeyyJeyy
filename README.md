@@ -9,10 +9,9 @@ Some may be in private temporarily but all of these projects are open source. ‚ù
 * **[Mythic](https://github.com/JeyyJeyy/Mythic)**, a Discord bot with a lot of features
 * **[MyoBras](https://github.com/JeyyJeyy/MyoBras)**, an arduino project to link Myo and Braccio
 * **[LoLUtils](https://github.com/JeyyJeyy/LoLUtils)**, a tool to help choose your champion on League of Legends
-* **[Get-T1](https://github.com/JeyyJeyy/Get-T1)**, to be aware of problems on the T1 line at Nancy
 * **[StockManager](https://github.com/JeyyJeyy/StockManager-server)**, a tool to help control food stocks
 * and more in progress... !
 
 ### Contacts üìù
 
-You can message me on **[Discord - .jeyyjeyy](https://discord.com/users/442645039693299723)** and **[Twitter](https://twitter.com/gJeyJey_)**.
+You can message me on **[Discord - .jeyyjeyy](https://discord.com/users/442645039693299723)**.
