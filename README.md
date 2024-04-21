@@ -9,7 +9,7 @@ Some may be in private temporarily but all of these projects are open source. ‚ù
 * **[Mythic](https://github.com/JeyyJeyy/Mythic)**, a Discord bot with a lot of features
 * **[MyoBras](https://github.com/JeyyJeyy/MyoBras)**, an arduino project to link Myo and Braccio
 * **[LoLUtils](https://github.com/JeyyJeyy/LoLUtils)**, a tool to help choose your champion on League of Legends
-* **[StockManager](https://github.com/JeyyJeyy/StockManager-server)**, a tool to help control food stocks
+* **[KitchenPal](https://github.com/JeyyJeyy/KitchenPal)**, a tool to help control food stocks
 * and more in progress... !
 
 ### Contacts üìù
