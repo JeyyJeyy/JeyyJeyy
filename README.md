@@ -5,11 +5,11 @@ I like to code with different programming languages like <img src="https://img.i
 
 ### Repositories 🔧
 
-Some may be in private temporarily but all of these projects are open source. ❤
+Some may be in private temporarily but all of these projects are open source.
 * **[Mythic](https://github.com/JeyyJeyy/Mythic)**, a Discord bot with a lot of features
 * **[MyoBras](https://github.com/JeyyJeyy/MyoBras)**, an arduino project to link Myo and Braccio
 * **[LoLUtils](https://github.com/JeyyJeyy/LoLUtils)**, a tool to help choose your champion on League of Legends
-* **[KitchenPal](https://github.com/JeyyJeyy/KitchenPal)**, a tool to help control food stocks
+* **[KitchenPal](https://github.com/JeyyJeyy/KitchenPal)**, a tool to help manage food stocks
 * and more in progress... !
 
 ### Contacts 📝
